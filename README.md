@@ -697,3 +697,4 @@ For now...
   + [Function declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
 
 [dry]: https://en.wikipedia.org/wiki/Don't_repeat_yourself
+<p data-visibility='hidden'>PHRG Functions</p>
