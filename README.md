@@ -690,6 +690,10 @@ That's all, folks!
 
 For now...
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-functions-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-basics-functions-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - MDN
   + [Functions — reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
